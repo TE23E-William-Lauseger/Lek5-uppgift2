@@ -1,0 +1,110 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    align-items: center;
+}
+#winter-wonderland{
+    background-image: url(./img/snow_winter_trees.jpg);
+    border: 3px solid #D6001C;
+    border-radius: 10px;
+    padding: 5px;
+    justify-content: space-around;
+    height: 400px;
+    background-size: cover;
+}
+#bilder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #D6001C;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#smhi{
+    width: 80px;
+    height: 60px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 8px;
+}
+#sweclockers{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    width: 300px;
+    height: 60px;
+}
+#rt{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 60px;
+    padding: 8px;
+}
+#vinterrubrik{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 7%;
+}
+#mnd{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#w3{
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 40px;
+    align-self: stretch;
+}
+#div-vänster{
+    border: 3px solid #D6001C;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    font-size: 20px;
+}
+#div-mitten{
+    border: 3px solid #D6001C;
+    border-radius: 10px;
+}
+#div-höger{
+    width: 30px;
+}
+#div-vmh{
+    border: solid #D6001C;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    gap: 10px;
+    margin-top: 5px;
+}
+#div-höger{
+    border: solid #D6001C;
+    border-radius: 10px;
+    width: 50px;
+    padding: 3px;
+}
+#julgran{
+    width: 50px;
+    height: 500px;
+}
+#sid-fot{
+    border: 3px solid #D6001C;
+    border-radius: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
